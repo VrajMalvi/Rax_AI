@@ -1,0 +1,6 @@
+1. https://coderabbit.ai/
+2. https://www.codacy.com/
+3. https://snyk.io/
+4. https://codeclimate.com/
+5. https://aws.amazon.com/codeguru/
+6. https://www.pullrequest.com/
